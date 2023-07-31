@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @danvfds
-- 👀 I’m interested in getting my first professional experience as a backend developer.
-- 🌱 I’m currently learning Java Web and SpringBoot.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-danvfds/danvfds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, World! @danvfds
+- I’m Daniel (or Dan, for the most!). I am a accounting studant interested in a career changing.
+- I’m currently learning Java Web and SpringBoot and looking for my first professional experience as a backend developer.
+- 📫 How to reach me:
+- email: fernandesvalenca@gmail.com;
+- whatsapp and phone number: (81)99653-4599;
