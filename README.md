@@ -1,5 +1,5 @@
 - 👋 Hello, World!
-- I’m Daniel (or Dan, for the most!). I am a accounting studant interested in a career changing.
+- I’m Daniel (or Dan, for the most of people). I am a accounting studant interested in a career changing.
 - I’m currently learning Java Web and SpringBoot and looking for my first professional experience as a backend developer.
 - 📫 How to reach me:
 - email: fernandesvalenca@gmail.com;
